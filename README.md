@@ -1,14 +1,16 @@
+# Programming Assignment 0: Warm Up and Review
+
 **Assignment Spec:**
 
 "This assignment is intended to be a review and warm up for CSE 123. It will require you to use the skills and concepts that you should be familiar with from your prior programming experience."
 
-**Collections/Reference Semantics - Debugging**
+# Collections/Reference Semantics - Debugging
 One of the TAs has been programming in Python for too long, and forgot how to code in Java! They wrote a solution to the following problem, but accidentally included some bugs:
 There are 5 bugs in the following program. Find and fix them all!
 
 Use left and right arrow keys to adjust the split region size
 
-**Collections - Inverted Index**
+# Collections - Inverted Index
 Write a method called createIndex that creates an inverted index for a list of documents. Your method should take one argument, a list of "documents" where each document is represented as a string. Your method should return a map where the keys are individual words that appear in the parameter list of documents and the values are sets of documents in which those words appear.
 
 For example, suppose the variable titles contains the following list:
@@ -23,7 +25,7 @@ The keys of the returned map should be case-insensitive (i.e. treat "The" and "t
 
 You may assume that the parameter passed in non-null, that each element of the parameter is a non-empty string, and that words in each document are separated by a single space.
 
-**Classes/Interfaces - Media**
+# Classes/Interfaces - Media
 Write a Java class called Book that implements the provided Media interface and represents a book. For books, the artists are considered to be the author(s).
 
 Your class should have two constructors:
