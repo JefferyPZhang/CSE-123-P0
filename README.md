@@ -2,7 +2,7 @@
 
 **Assignment Spec:**
 
-"This assignment is intended to be a review and warm up for CSE 123. It will require you to use the skills and concepts that you should be familiar with from your prior programming experience."
+This assignment is intended to be a review and warm up for CSE 123. It will require you to use the skills and concepts that you should be familiar with from your prior programming experience.
 
 # Collections/Reference Semantics - Debugging
 One of the TAs has been programming in Python for too long, and forgot how to code in Java! They wrote a solution to the following problem, but accidentally included some bugs:
